@@ -4,7 +4,7 @@
 
 header {
   width: 100%; height: 100vh;
-  background-image: linear-gradient(rgba(0,0,0,0.3)), url('../images/bgcd.jpg');
+  background-image: linear-gradient(rgba(0,0,0,0.3)), url('../img/bgcd.jpg');
   background-repeat: no-repeat;
   background-size: cover;
 }
