@@ -22,4 +22,8 @@ nav{
 }
 
 nav .bglg{
+  width: 25%;
+  text-align: center;
+  font-size: 35px;
+  font-family: monospace;
 }
