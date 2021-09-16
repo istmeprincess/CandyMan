@@ -19,6 +19,8 @@ nav{
   justify-content: space-between;
   align-items: center;
   text-transform: uppercase;
+  font-family: monospace;
+  font-size: 14px;
 }
 
 nav .bglg{
