@@ -1,1 +1,14 @@
+*{
+  margin: 0; padding: 0; box-sizing: border-box;
+}
 
+header{
+  width: 100%; height: 100vh;
+  background-image: url('https://telegra.ph/file/ae6f8353b0319c85a108f.jpg'), 
+  linear-gradient(rgba(0,0,0.3));
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+nav{
+}
