@@ -76,6 +76,12 @@ section a{
   font-weight: 500;
   text-decoration: none;
   letter-spacing: 1px;
+  transition: all .5s ease;
+}
+
+.btnone:hover{
+    background: #00b894;
+    color: white;
 }
 
 section .btnone{
@@ -83,7 +89,23 @@ section .btnone{
   color: #000;
 }
 
+.btntwo:hover{
+    background: #ffr;
+    color: #000;
+}
+
 section .btntwo{
   background: #00b894;
   color: white;
+}
+
+.change_content:after {
+    content: '';
+    animation: changetext 10s infinite linear;
+    color: #00b894;
+}
+
+@keyframes changetext{
+    0%{content: "SLP";}
+    20%{content: "SEP20";}
 }
