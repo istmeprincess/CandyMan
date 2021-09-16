@@ -7,6 +7,7 @@ header{
   background-image: url('https://telegra.ph/file/ae6f8353b0319c85a108f.jpg'); 
   background-repeat: no-repeat;
   background-size: cover;
+  background-position: center;
 }
 
 nav{
