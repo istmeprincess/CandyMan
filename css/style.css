@@ -110,3 +110,13 @@ section .btntwo{
     0%{content: "SLP";}
     20%{content: "SEP20";}
 }
+
+#homee {
+     font-family: monospace;
+     color: white;
+}
+
+#slpex {
+    font-family: monospace;
+    color: white;
+}
