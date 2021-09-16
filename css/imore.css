@@ -27,3 +27,9 @@ nav .bglg{
   font-size: 35px;
   font-family: monospace;
 }
+
+nav .menu{
+  width: 40%;
+  display: flex;
+  justify-content: space-around;
+}
