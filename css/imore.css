@@ -44,19 +44,23 @@ nav .menu a{
 #homee{
     font-family: monospace;
     color: white;
+    font-size: 21px;
 }
 
 #ben{
    font-family: monospace;
    color: white;
+   font-size: 21px;
 }
 
 #mcap{
    font-family: monospace;
    color: white;
+   font-size: 21px;
 }
 
 #cpro{
    font-family: monospace;
    color: red;
+   font-size: 21px;
 }
