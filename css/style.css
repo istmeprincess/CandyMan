@@ -122,3 +122,13 @@ section .btntwo{
     color: white;
     font-size: 14px;
 }
+
+#info {
+    font-family: monospace;
+    color: white;
+}
+
+#sscan {
+    font-family: monospace;
+    color: white;
+}
