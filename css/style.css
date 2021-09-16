@@ -59,6 +59,7 @@ section h1 {
   font-weight: 700;
   text-shadow: 2px 1px 5px purple;
   text-transform: uppercase;
+  font-family: monospace;
 }
 
 section p{
