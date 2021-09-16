@@ -114,9 +114,11 @@ section .btntwo{
 #homee {
      font-family: monospace;
      color: white;
+     font-size: 7px;
 }
 
 #slpex {
     font-family: monospace;
     color: white;
+    font-size: 7px;
 }
