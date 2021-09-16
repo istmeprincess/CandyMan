@@ -3,7 +3,7 @@
 }
 
 header {
-  width: 1000px; height: 1000px;
+  width: 100%; height: 100vh;
   background-image: url('https://telegra.ph/file/ae6f8353b0319c85a108f.jpg');
   background-repeat: no-repeat;
   background-size: cover;
