@@ -39,6 +39,7 @@ nav .menu{
 nav .menu a{
   width: 25%;
   text-decoration: none;
+  justify-content: space between;
 }
 
 #homee{
