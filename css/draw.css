@@ -8,7 +8,7 @@ img{
   alt: 'candyman';
   height: 100px;
   width: 75px;
-  left: 50%;
+  float: left;
 }
 
 h1{
