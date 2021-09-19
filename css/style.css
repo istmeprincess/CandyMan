@@ -112,6 +112,16 @@ section .btnthree{
   color: #000;
 }
 
+.btnfour:hover{
+    background: #fff;
+    color: #000;
+}
+
+section .btnfour{
+  background: #00b894;
+  color: white;
+}
+
 .change_content:after {
     content: '';
     animation: changetext 10s infinite linear;
