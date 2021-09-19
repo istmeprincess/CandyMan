@@ -1,6 +1,4 @@
 body{
-  background: linear-gradient(45deg, rgb(76, 0, 255), transparent),
-              repeating-linear-gradient(45deg, rgb(183, 0, 255) 0%, transparent 5%, transparent 10%)
-              rgb(216, 118, 255) repeating-linear-gradient(-45deg, rgb(183, 0, 255, 0.5) 0%, rgb(183, 0, 255, 0.5) 5%, transparent 5%, transparent 10%);
+  background: linear-gradient(purple, red);
   height: 100vh;
 }
