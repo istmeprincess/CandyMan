@@ -7,7 +7,7 @@
 header{
   width: 100%;
   height: 100vh;
-  background: ;
+  background: linear-gradient(45deg, purple, green);
   background-size: cover;
   background-position: center;
 }
