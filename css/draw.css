@@ -1,5 +1,4 @@
 body{
-  background-image: url("../img/animebg.gif");
-  background-repeat: no-repeat;
-  background-size: cover;
+  background: linear-gradient(45deg, purple, blue, yellow);
+  height: 100vh;
 }
