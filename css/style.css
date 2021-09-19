@@ -112,12 +112,12 @@ section .btnthree{
   color: #000;
 }
 
-.btnfour:hover{
+.butnfour:hover{
     background: #fff;
     color: #000;
 }
 
-section .btnfour{
+section .butnfour{
   background: #00b894;
   color: white;
 }
