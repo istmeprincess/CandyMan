@@ -76,3 +76,54 @@ section a{
   letter-spacing: 1px;
   transition: all .5s ease;
 }
+
+.btnone:hover{
+    background: #00b894;
+    color: white;
+}
+
+section .btnone{
+  background: #fff;
+  color: #000;
+}
+
+.btntwo:hover{
+    background: #fff;
+    color: #000;
+}
+
+section .btntwo{
+  background: #00b894;
+  color: white;
+}
+
+.btnthree:hover{
+    background: #00b894;
+    color: white;
+}
+
+section .btnthree{
+  background: #fff;
+  color: #000;
+}
+
+.butnfour:hover{
+    background: #fff;
+    color: #000;
+}
+
+section .butnfour{
+  background: #00b894;
+  color: white;
+}
+
+.change_content:after {
+    content: '';
+    animation: changetext 10s infinite linear;
+    color: #00b894;
+}
+
+@keyframes changetext{
+    0%{content: "SLP";}
+    44%{content: "SEP20";}
+}
