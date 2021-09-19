@@ -3,6 +3,10 @@ body{
   height: 100vh;
 }
 
+img{
+  align: left;
+}
+
 h1{
   font-family: "Times New Roman";
 }
