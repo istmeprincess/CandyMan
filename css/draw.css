@@ -2,3 +2,8 @@ body{
   background: linear-gradient(45deg, red, purple);
   height: 100vh;
 }
+
+h1{
+  font-family: "Times New Roman";
+  text-align: center;
+}
