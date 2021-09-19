@@ -1,15 +1,16 @@
 body{
   background: linear-gradient(45deg, red, purple);
   height: 100vh;
-  text-align: center;
 }
 
 h1{
   font-family: "Times New Roman";
-  text-align: center;
 }
 
 p1{
   font-family: "Helvetica";
-  text-align: center;
+}
+
+h2{
+  font-family: "Times New Roman";
 }
