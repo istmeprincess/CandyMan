@@ -124,6 +124,7 @@ section .butnfour{
 }
 
 @keyframes changetext{
-    0%{content: "SLP";}
-    44%{content: "SEP20";}
+    0%{content: "FUNDRAISER";}
+    20%{content: "DONATE";}
+    40%{content: "PROVIDE LIQUIDITY FUNDS";}
 }
