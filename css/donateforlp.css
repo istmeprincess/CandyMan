@@ -1,1 +1,13 @@
+body{
+  background: linear-gradient(45deg, purple, green);
+  height: 150vh;
+}
+
+h1{
+  font-family: "courier";
+}
+
+p1{
+  font-family: "courier new";
+}
 
