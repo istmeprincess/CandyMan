@@ -1,6 +1,7 @@
 body{
 	background: linear-gradient(50deg, green, purple);
 	height: 75vh;
+	background-repeat: no-repeat;
 }
 
 h1{
