@@ -1,1 +1,11 @@
+body{
+	background: linear-gradient(50deg, green, purple);
+}
 
+h1{
+	font-family: monospace;
+}
+
+p1{
+	font-family: cursive;
+}
