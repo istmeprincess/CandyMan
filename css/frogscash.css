@@ -1,5 +1,6 @@
 body{
 	background: linear-gradient(50deg, green, purple);
+	height: 75vh;
 }
 
 h1{
@@ -7,5 +8,9 @@ h1{
 }
 
 p1{
+	font-family: cursive;
+}
+
+p2{
 	font-family: cursive;
 }
